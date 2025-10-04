@@ -4,7 +4,7 @@
 
 
 ## Quick facts 
-- **Links:** [LinkedIn](https://linkedin.com/in/eloantourtelier) · [GitHub](https://github.com/El-oan) · [eloantourtelier.com](https://eloantourtelier.com)
+- **Links:** [LinkedIn](https://linkedin.com/in/eloantourtelier) · [GitHub](https://github.com/El-oan) · [Personnal Website](https://eloantourtelier.com)
 - 22 year old, enjoy languages, design, AI and much more...
 
 ## Tech & tools
