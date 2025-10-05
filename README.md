@@ -7,7 +7,7 @@
 
 `Python (pandas, scikit-learn)` · `SQL` · `Swift` · `Bash` · `Docker` · `Xcode` · `Dataiku` · `Power BI` · `Illustrator`
 
-**French** (native) · **English** (C1) · **Chinese** (HSK3/4) · **Russian** (intermediate)
+**French** (native) · **English** (bilingual) · **Chinese** (HSK3/4) · **Russian** (intermediate)
 
 
 ## Projects
