@@ -2,7 +2,7 @@
 
 *M.Eng. student (Physics & Mathematics) at CentraleSupélec, Paris Saclay.*  
 
-- **Links:** [LinkedIn](https://linkedin.com/in/eloantourtelier) · [Website](https://eloantourtelier.com)
+- **Links:** [LinkedIn](https://linkedin.com/in/eloantourtelier) · [Website](https://eloantourtelier.com) · [Karacter](https://apps.apple.com/us/app/文-character/id6747664971)
 - 22 year old, enjoy languages, design, AI and much more...
 
 `Python (pandas, scikit-learn)` · `SQL` · `Swift` · `Bash` · `Docker` · `Xcode` · `Dataiku` · `Power BI` · `Illustrator`
