@@ -6,7 +6,8 @@
 - 22 year old, enjoy languages, design, AI and much more...
 
 `Python (pandas, scikit-learn)` · `SQL` · `Swift` · `Bash` · `Docker` · `Xcode` · `Dataiku` · `Power BI` · `Illustrator`
-`French** (native)` · `English (C1)` · `Chinese (HSK3/4)` · `Russian (intermediate)`
+
+`French (native)` · `English (C1)` · `Chinese (HSK3/4)` · `Russian (intermediate)`
 
 
 ## Projects
