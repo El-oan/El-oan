@@ -6,7 +6,7 @@
 - 22 year old, enjoy languages, design, AI and much more...
 
 `Python (pandas, scikit-learn)` · `SQL` · `Swift` · `Bash` · `Docker` · `Xcode` · `Dataiku` · `Power BI` · `Illustrator`
-
+`French** (native)` · `English (C1)` · `Chinese (HSK3/4)` · `Russian (intermediate)`
 
 
 ## Projects
@@ -15,10 +15,6 @@
 - **ML project** — Satellite image classification (Kaggle / school project): end-to-end pipeline, ensemble (XGBoost), **F1 = 0.95**.  
 - **Mistral hackathon** — Built MCP connectors + demo integrations (Spotify, Genius, Wikipedia).
 
-
-
-## Languages
-**French** (native) · **English** (C1) · **Chinese** (HSK3/4) · **Russian** (intermediate)
 
 
 
