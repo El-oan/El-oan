@@ -9,7 +9,7 @@
 **French** (native) · **English** (bilingual) · **Chinese** (HSK3/4) · **Russian** (intermediate)
 
 ## Projects
-- **iOS Developer — Karacter** (April 2025 – Present) — Chinese learning app (123k+ lexicon entries); Swift + SQL + Python; 8.3k+ LOC.  
+- **iOS Developer — Karacter** — Chinese learning iOS app (123k+ lexicon entries), strokes and handrawing; Swift + SQL; 8.3k+ LOC.  
 - **ML project** — Satellite image classification (Kaggle / school project): classic ML pipeline, XGBoost had the best F1; 7k+ LOC.  
 - **Mistral hackathon** — Built MCP connectors + demo integrations (Spotify, Genius, Wikipedia APIs).
 
