@@ -1,5 +1,4 @@
 # Hi — I’m **Eloan** 👋
-
 *M.Eng. student (Physics & Mathematics) at CentraleSupélec, Paris Saclay.*  
 
 - **Links:** [LinkedIn](https://linkedin.com/in/eloantourtelier) · [Website](https://eloantourtelier.com) · [Karacter](https://apps.apple.com/us/app/文-character/id6747664971)
@@ -9,12 +8,10 @@
 
 **French** (native) · **English** (bilingual) · **Chinese** (HSK3/4) · **Russian** (intermediate)
 
-
 ## Projects
-- **Data Analyst — Forvis Mazars** (Sep 2025 – Present) — consulting, data engineering and analysis.  
-- **iOS Developer — Karacter** (April 2025 – Present) — Chinese learning app (100k+ lexicon entries); Swift + SQL + Python; 8.3k+ LOC.  
-- **ML project** — Satellite image classification (Kaggle / school project): end-to-end pipeline, ensemble (XGBoost), **F1 = 0.95**.  
-- **Mistral hackathon** — Built MCP connectors + demo integrations (Spotify, Genius, Wikipedia).
+- **iOS Developer — Karacter** (April 2025 – Present) — Chinese learning app (123k+ lexicon entries); Swift + SQL + Python; 8.3k+ LOC.  
+- **ML project** — Satellite image classification (Kaggle / school project): classic ML pipeline, XGBoost had the best F1; 7k+ LOC.  
+- **Mistral hackathon** — Built MCP connectors + demo integrations (Spotify, Genius, Wikipedia APIs).
 
 
 
